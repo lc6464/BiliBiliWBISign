@@ -1,9 +1,9 @@
-﻿using BiliBiliWBISign;
-using System.Net.Http.Json;
+﻿using System.Net.Http.Json;
 using System.Security.Cryptography;
 using System.Text;
 using System.Text.Json.Serialization;
 using System.Text.RegularExpressions;
+using BiliBiliWBISign;
 
 
 Dictionary<string, string> query = new() {
